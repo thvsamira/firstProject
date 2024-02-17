@@ -12,11 +12,12 @@ if(namePrompt == name) {
         
         if(+pin2 <= account){
             
-
+        
         
             let result = money - pin2
             
                 alert("Осталось " + result)
+                let = alert (Age17)
             
         }else{
             alert("Повторите попытку");
